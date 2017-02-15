@@ -7,4 +7,5 @@ SHA-2 Hash NANPA MSISDN's
 
 # Usage
 python msisdn_hasher.py >> hugefile.txt
+
 It's gonna eat up a lotttttt of space
