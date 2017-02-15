@@ -2,6 +2,7 @@
 SHA-2 Hash NANPA MSISDN's
 
 -areacodes.txt contains all *valid* NPA's (388 total)
+
 -msisdn_hasher.py generates every possible number in each of the 388 area codes.  
 
 # Usage
